@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @herculeskan
-- 👀 I’m interested in learn and be a developer
-- 🌱 I’m currently learning html and css, I'm new on this
-- 💞️ I’m looking to collaborate on... Nothing yet, but soon as I can I will work with the bes
+- 👋 Hi,Hello, nice to meet you, my name is  @herculeskan, I'm a self-taught programmer and I addict to technology, specially css, javascript and HTML.
+I upload projects commits almost everyday. I hope to we get a good friendship
 - 📫 How to reach me: @blues_lara
 
 <!---
