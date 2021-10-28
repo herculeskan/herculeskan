@@ -1,7 +1,7 @@
 # My name is Carlos Lara 💻
 but my nickname in internet is Hercules Kan. I enjoy a lot programming things and write notes about things I learn  day
 
-### You can find me in:
+### You can find me on:
 
  * [Twitter](https://twitter.com/Blues_Lara) 🐦
  * [Linkedin](https://www.linkedin.com/in/carlos-lara-gil-947845209/) 🕴️
