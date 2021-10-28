@@ -12,7 +12,10 @@ Thank you for reading, I hope you to have a good day!!.
 
 I'm self-taught, I like a lot math, I currently use HTML, CSS,Javascrip. For now I'm learning React and Python. I upload repositories and projects almost everyday.
 ----
-
+###### My spanish notes:
+[apuntes de Pythonl](https://github.com/herculeskan/apuntes-python) 🐍
+ 
+ !
 
 <!---
 herculeskan/herculeskan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
