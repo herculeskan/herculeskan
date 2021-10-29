@@ -1,7 +1,7 @@
 # My name is Carlos Lara 💻
 but my nickname in internet is Hercules Kan. I enjoy a lot programming things and write notes about things I learn  day
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herculeskan &theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herculeskan&theme=synthwave)
 
 ### You can find me on:
 
