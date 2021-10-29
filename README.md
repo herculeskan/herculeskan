@@ -9,9 +9,6 @@ but my nickname in internet is Hercules Kan. I enjoy a lot programming things an
  * [Linkedin](https://www.linkedin.com/in/carlos-lara-gil-947845209/) 🕴️
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herculeskan&layout=compact)](https://github.com/herculeskan)
-
-
 Thank you for reading, I hope you to have a good day!!.
 
 ![Profile picture](https://i.pinimg.com/736x/91/3e/18/913e1875642c605f53fbaead3c2ed450.jpg) 
