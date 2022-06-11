@@ -15,9 +15,9 @@ Thank you for reading, I hope you to have a good day!!.
 
 I'm self-taught, I like a lot math, I currently use HTML, CSS,Javascrip. For now I'm learning React and Python. I upload repositories and projects almost everyday.
 ----
-###### My spanish notes:
+### 50 python projects:
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=herculeskan&repo=apuntes-python)](https://github.com/herculeskan/apuntes-python)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=herculeskan&repo=50-python-projects)](https://github.com/herculeskan/50-python-projects)
 
 
 <!---
