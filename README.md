@@ -1,5 +1,5 @@
 # Carlos Esteban Lara Gil
-![Foto de perfil](https://imgur.com/enfoOBOl.png)
+![Foto de perfil](https://imgur.com/enfoOBOs.png)
 > Software Engineer
 - [Linkedin ](https://www.linkedin.com/in/clarag-dev/) 
   :bust_in_silhouette:
