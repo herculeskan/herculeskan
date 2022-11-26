@@ -1,30 +1,79 @@
-# My name is Carlos Lara 💻
-but my nickname in internet is Hercules Kan. I enjoy a lot programming things and write notes about things I learn  day
+# Carlos Esteban Lara Gil
+![Foto de perfil](cv1.jpg)
+> Software Engineer
+- [Linkedin ](https://www.linkedin.com/in/clarag-dev/) 
+  :bust_in_silhouette:
+- [GitHub](https://github.com/herculeskan) :cat:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herculeskan&theme=synthwave)
+## ABOUT ME
+---
+I'm in love with the software.
+I'm a Software Engineering student at the [University of Cartagena](https://www.linkedin.com/school/unicartagena/) , I am recognized as a representative of the classroom. I like to stand out by getting excellent grades and being attentive to my classmates.
 
-### You can find me on:
+I am looking for the opportunity to gain experience in programming. I have many skills such as:
 
+| FrontEnd   | BackEnd | DevOps  | Testing  | Data Bases |
+| ---------- | ------- | ------- | -------- | ---------- |
+| HTML       | Java    | Git     | JUnit    | MySQL      |
+| CSS        | Python  | Docker  | Selenium | MongoDB    |
+| JavaScript | C#      | Jenkins | Postman  | PostgreSQL |
+| React      | C++     |         |          |            |
+| Angular    |         |         |          |            |
+| Bootstrap  |         |         |          |            |
+|            |         |         |          |            |
+
+
+
+Like my University, I really like teamwork and I cooperate a lot with everything possible to achieve common goals. I like to learn new things and eventually teach what I learn
+
+## Languages
+- Spanish (nativo)
+- English(B2)
+- French(Learning)
+
+
+## EXPERIENCE
 ---
 
+### Freelance programmer
+March - currently
+(2 years)
+>Software Developer
 
- * [Twitter](https://twitter.com/Blues_Lara) 🐦
- * [Linkedin](https://www.linkedin.com/in/carlos-lara-gil-947845209/) 🕴️
+Using the MERN stack I make dynamic pages in fiverr.
 
+### Compra y venta de reparaicon de computadoras DC 
+>Computer salesman and repairman
+January -2020
+(3 años)
 
-Thank you for reading, I hope you to have a good day!!.
+With my partner [David Enrique Castillo Castro](https://www.linkedin.com/in/david-enrique-castillo-castro-18a405163/) we were dedicated to buying and selling computer repair, therefore.
 
-![Profile picture](https://i.pinimg.com/736x/91/3e/18/913e1875642c605f53fbaead3c2ed450.jpg) 
+## EDUCATION
+---
+### Universidad De Cartagena - Colombia
+>Software Engineering
 
-I'm self-taught, I like a lot math, I currently use HTML, CSS,Javascrip. For now I'm learning React and Python. I upload repositories and projects almost everyday.
+ _Septiembre 2022 - Septiembre 2027_
 
-----
-### 50 python projects:
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=herculeskan&repo=50-python-projects)](https://github.com/herculeskan/50-python-projects)
+---
+### [Universidad Tecnológica de Pereira](https://www.linkedin.com/school/universidad-tecnol-gica-de-pereira/)
+ >**Misión tic 2022**
 
+ May 2022 - December 2022_
+- [Python Programming Stack](https://drive.google.com/file/d/1k8NFIRmPNIMpQRXagpmtxJtA6s5RLU0S/view?usp=sharing)
+- [Java Programming Stack](https://drive.google.com/file/d/1bDFKcV-gAI_mMBlYQv7jJsmBceS7vtaH/view?usp=sharing)
+- [Software Development](https://drive.google.com/file/d/1Xhz7fEBv2N6y8ouqm-S9YTkB_zaKPc_q/view?usp=sharing)
+---
+### [Alura Latam](https://www.linkedin.com/company/alura-latam/) 
+>Oracle Next Education 
+_November 2022 - July 2023_
+---
 
-<!---
-herculeskan/herculeskan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hobbies 
+- Read
+- Meditate
+- BodyWeight Training 
+- Learning new Lenguages
+- Write
+- Watch programming tutorials
