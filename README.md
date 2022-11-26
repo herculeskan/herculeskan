@@ -54,7 +54,7 @@ With my partner [David Enrique Castillo Castro](https://www.linkedin.com/in/davi
 ### [University of Cartagena](https://www.linkedin.com/school/unicartagena/)
 >Software Engineering
 
- _Septiembre 2022 - Septiembre 2027_
+ _September 2022 - September 2027_
 
 ---
 ### [Universidad Tecnológica de Pereira](https://www.linkedin.com/school/universidad-tecnol-gica-de-pereira/)
