@@ -68,6 +68,8 @@ With my partner [David Enrique Castillo Castro](https://www.linkedin.com/in/davi
 ### [Alura Latam](https://www.linkedin.com/company/alura-latam/) 
 >Oracle Next Education 
 _November 2022 - July 2023_
+
+- [Desarrollo personal G4-ONE](https://app.aluracursos.com/degree/certificate/1718dd89-c838-4f31-a8d7-8a7b575683c5)
 ---
 
 ## Hobbies 
