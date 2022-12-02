@@ -82,6 +82,7 @@ I am looking for the opportunity to gain experience in programming. I have many 
 
 
 Like my University, I really like teamwork and I cooperate a lot with everything possible to achieve common goals. I like to learn new things and eventually teach what I learn
+<br>
 
 ## Languages  🇺🇸 🇨🇴 🇫🇷
 - Spanish (nativo)
