@@ -1,14 +1,70 @@
 # Carlos Esteban Lara Gil
 ![Foto de perfil](https://imgur.com/enfoOBOl.png)
 > Software Engineer
-- [Linkedin ](https://www.linkedin.com/in/clarag-dev/) 
-  :bust_in_silhouette:
-- [GitHub](https://github.com/herculeskan) :cat:
+- [Linkedin 👤 ](https://www.linkedin.com/in/clarag-dev/) 
+  
+- [GitHub 😺](https://github.com/herculeskan) 
 
 ## ABOUT ME
 ---
 I'm in love with the software.
-I'm a Software Engineering student at the [University of Cartagena](https://www.linkedin.com/school/unicartagena/) , I am recognized as a representative of the classroom. I like to stand out by getting excellent grades and being attentive to my classmates.
+I'm a Software Engineering student at the [University of Cartagena](https://www.linkedin.com/school/unicartagena/) , I am recognized as a representative of the classroom. I like to stand out by getting excellent grades and being attentive to my classmates. 
+Like my University, I really like teamwork and I cooperate a lot with everything possible to achieve common goals. I like to learn new things and eventually teach what I learn
+
+<br>
+
+## EDUCATION 👨‍🎓
+---
+### [Universidad De Cartagena - Colombia](https://www.linkedin.com/school/unicartagena/)
+>Software Engineering
+
+ _September 2022 - September 2027_
+
+<br>
+
+### [Universidad Tecnológica de Pereira](https://www.linkedin.com/school/universidad-tecnol-gica-de-pereira/)
+ >**Misión tic 2022**
+
+ May 2022 - December 2022_
+- [Python Programming Stack](https://drive.google.com/file/d/1k8NFIRmPNIMpQRXagpmtxJtA6s5RLU0S/view?usp=sharing)
+- [Java Programming Stack](https://drive.google.com/file/d/1bDFKcV-gAI_mMBlYQv7jJsmBceS7vtaH/view?usp=sharing)
+- [Software Development](https://drive.google.com/file/d/1Xhz7fEBv2N6y8ouqm-S9YTkB_zaKPc_q/view?usp=sharing)
+
+<br>
+### [Oracle ](https://www.linkedin.com/company/oracle/) [Next education](https://www.linkedin.com/company/alura-latam/)
+>Desarrollo de Software
+_November 2022 - July 2023_
+- [Lógica de programación: Primeros pasos](https://drive.google.com/file/d/1Azi_2QvKmyUh5e_Bw8XB25WojqH6z9Fx/view?usp=sharing)
+- [Desarrollo personal G4](https://drive.google.com/file/d/1sktemDPnvc3OnlLycgkzPoMmLIEKY6mm/view?usp=sharing)
+
+## WORK EXPERIENCE 👷‍♂️
+---
+
+### Freelance programmer
+- March2018 - currently 
+>Software Developer
+
+Using the MERN stack I make dynamic pages in fiverr.
+
+### Compra y venta de reparaicon de computadoras DC 
+>Computer salesman and repairman
+
+- January -2020 
+
+With my partner [David Enrique Castillo Castro](https://www.linkedin.com/in/david-enrique-castillo-castro-18a405163/) we were dedicated to buying and selling computer repair, therefore.
+
+---
+
+[](TECHNICALEXPERIENCE )
+
+
+[](PERSONALPROJECTS)
+
+
+[](Premios)
+
+[](Skills)
+
 
 I am looking for the opportunity to gain experience in programming. I have many skills such as:
 
@@ -26,56 +82,16 @@ I am looking for the opportunity to gain experience in programming. I have many 
 
 Like my University, I really like teamwork and I cooperate a lot with everything possible to achieve common goals. I like to learn new things and eventually teach what I learn
 
-## Languages
+## Languages  🇺🇸 🇨🇴 🇫🇷
 - Spanish (nativo)
 - English(B2)
 - French(Learning)
-
-
-## EXPERIENCE
----
-
-### Freelance programmer
-March - currently
-(2 years)
->Software Developer
-
-Using the MERN stack I make dynamic pages in fiverr.
-
-### Compra y venta de reparaicon de computadoras DC 
->Computer salesman and repairman
-January -2020
-(3 años)
-
-With my partner [David Enrique Castillo Castro](https://www.linkedin.com/in/david-enrique-castillo-castro-18a405163/) we were dedicated to buying and selling computer repair, therefore.
-
-## EDUCATION
----
-### [University of Cartagena](https://www.linkedin.com/school/unicartagena/)
->Software Engineering
-
- _September 2022 - September 2027_
-
----
-### [Universidad Tecnológica de Pereira](https://www.linkedin.com/school/universidad-tecnol-gica-de-pereira/)
- >**Misión tic 2022**
-
- May 2022 - December 2022_
-- [Python Programming Stack](https://drive.google.com/file/d/1k8NFIRmPNIMpQRXagpmtxJtA6s5RLU0S/view?usp=sharing)
-- [Java Programming Stack](https://drive.google.com/file/d/1bDFKcV-gAI_mMBlYQv7jJsmBceS7vtaH/view?usp=sharing)
-- [Software Development](https://drive.google.com/file/d/1Xhz7fEBv2N6y8ouqm-S9YTkB_zaKPc_q/view?usp=sharing)
----
-### [Alura Latam](https://www.linkedin.com/company/alura-latam/) 
->Oracle Next Education 
-_November 2022 - July 2023_
-
-- [Desarrollo personal G4-ONE](https://app.aluracursos.com/degree/certificate/1718dd89-c838-4f31-a8d7-8a7b575683c5)
----
+<br>
 
 ## Hobbies 
-- Read
-- Meditate
-- BodyWeight Training 
-- Learning new Lenguages
-- Write
-- Watch programming tutorials
+- Read 📚️
+- Meditate 🧘‍♂️ 
+- BodyWeight Training 🏋️‍♂️
+- Learning new Lenguages 🇧🇷
+- Write ✍️
+- Watch programming  🖱️
