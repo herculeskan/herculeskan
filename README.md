@@ -16,16 +16,13 @@ Like my University, I really like teamwork and I cooperate a lot with everything
 ## EDUCATION 👨‍🎓
 ---
 ### [Universidad De Cartagena - Colombia](https://www.linkedin.com/school/unicartagena/)
->Software Engineering
-
- _September 2022 - September 2027_
+>Software Engineering _September 2022 - September 2027_
 
 <br>
 
 ### [Universidad Tecnológica de Pereira](https://www.linkedin.com/school/universidad-tecnol-gica-de-pereira/)
- >**Misión tic 2022**
+ >**Misión tic 2022** May 2022 - December 2022_
 
- May 2022 - December 2022_
 - [Python Programming Stack](https://drive.google.com/file/d/1k8NFIRmPNIMpQRXagpmtxJtA6s5RLU0S/view?usp=sharing)
 - [Java Programming Stack](https://drive.google.com/file/d/1bDFKcV-gAI_mMBlYQv7jJsmBceS7vtaH/view?usp=sharing)
 - [Software Development](https://drive.google.com/file/d/1Xhz7fEBv2N6y8ouqm-S9YTkB_zaKPc_q/view?usp=sharing)
@@ -42,21 +39,19 @@ _November 2022 - July 2023_
 ---
 
 ### Freelance programmer
-- March2018 - currently 
+- Febrary - currently 
 >Software Developer
 
 Using the MERN stack I make dynamic pages in fiverr.
 
 ### Compra y venta de reparaicon de computadoras DC 
->Computer salesman and repairman
-
-- January -2020 
+>Computer salesman and repairman _January 2020 - March 2021 _ 
 
 With my partner [David Enrique Castillo Castro](https://www.linkedin.com/in/david-enrique-castillo-castro-18a405163/) we were dedicated to buying and selling computer repair, therefore.
 
 ---
 
-[](TECHNICALEXPERIENCE )
+<!--[](TECHNICALEXPERIENCE )
 
 
 [](PERSONALPROJECTS)
@@ -66,7 +61,7 @@ With my partner [David Enrique Castillo Castro](https://www.linkedin.com/in/davi
 
 [](Skills)
 
-
+-->
 I am looking for the opportunity to gain experience in programming. I have many skills such as:
 
 | FrontEnd   | BackEnd | DevOps  | Testing  | Data Bases |
