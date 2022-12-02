@@ -31,8 +31,9 @@ Like my University, I really like teamwork and I cooperate a lot with everything
 - [Software Development](https://drive.google.com/file/d/1Xhz7fEBv2N6y8ouqm-S9YTkB_zaKPc_q/view?usp=sharing)
 
 <br>
-### [Oracle ](https://www.linkedin.com/company/oracle/) [Next education](https://www.linkedin.com/company/alura-latam/)
->Desarrollo de Software
+
+### [O](https://www.linkedin.com/company/oracle/) [NE](https://www.linkedin.com/company/alura-latam/)
+>Oracle + Alura Latam(Oracle Next Education)
 _November 2022 - July 2023_
 - [Lógica de programación: Primeros pasos](https://drive.google.com/file/d/1Azi_2QvKmyUh5e_Bw8XB25WojqH6z9Fx/view?usp=sharing)
 - [Desarrollo personal G4](https://drive.google.com/file/d/1sktemDPnvc3OnlLycgkzPoMmLIEKY6mm/view?usp=sharing)
