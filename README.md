@@ -111,6 +111,10 @@ With my partner [David Enrique Castillo Castro](https://www.linkedin.com/in/davi
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 
 
+### Tools 🧰
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ### Other technologies
 <p>
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
