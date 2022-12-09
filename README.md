@@ -48,8 +48,8 @@ Like my University, I really like teamwork and I cooperate a lot with everything
 ### [Oracle ](https://www.linkedin.com/company/oracle/) [Next education](https://www.linkedin.com/company/alura-latam/)
 >Desarrollo de Software
 _November 2022 - July 2023_
-- [Principiante en programación ONE G4](https://app.aluracursos.com/degree/certificate/3aec43d4-a97b-4f0d-9908-ab06770285f7)
-- [Desarrollo personal G4](https://app.aluracursos.com/degree/certificate/1718dd89-c838-4f31-a8d7-8a7b575683c5)
+- <a href="https://app.aluracursos.com/degree/certificate/3aec43d4-a97b-4f0d-9908-ab06770285f7" target="_blank">PRINCIPIANTE EN PROGRAMACIÓN ONE G4</a>
+- <a href="https://app.aluracursos.com/degree/certificate/1718dd89-c838-4f31-a8d7-8a7b575683c5" target="_blank">DESARROLLO PERSONAL G4</a>
 
 ## WORK EXPERIENCE 👷‍♂️
 ---
