@@ -1,5 +1,4 @@
 # Carlos Esteban Lara Gil
-![Foto de perfil](https://imgur.com/enfoOBOl.png)
 > Software Engineer
 
 
