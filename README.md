@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm interested in blockchain, currently working as customer service. However in my free time I like to write some code
-
+I like to spend time writing code oowwyyeeeaahh
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clarag-dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hercules_kane) 
